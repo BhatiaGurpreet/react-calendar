@@ -26,3 +26,6 @@ Add Full Calendar React Component in your project.
 * Download calendar.js and style.css
 * In Calendar.js, replace <code>ReactDOM.render(<Calendar></Calendar>,document.getElementById('Calendar'));</code> with <code>export default Calendar</code>
 * Import calendar.js and style.css in your script file and render <code>&lt;Calendar>&lt;/Calendar></code>
+
+<h2>To clone the repository run the below command</h2>
+<h3><code> git clone https://github.com/BhatiaGurpreet/react-calendar.git </code><h3>
